@@ -57,7 +57,7 @@ return array(
 			'connectionString' => 'mysql:host=localhost;dbname=qibxiaoduanqun',
 			'emulatePrepare' => true,
 			'username' => 'root',
-			'password' => 'Shouke*liutie',
+			'password' => 'good123',
 			'charset' => 'utf8',
 		),
 
