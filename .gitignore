@@ -3,3 +3,4 @@ protected/runtime/
 themes/classic/views/
 hook.php
 *.DS_Store
+protected/config/main.php
